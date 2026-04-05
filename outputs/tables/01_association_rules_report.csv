@@ -1,0 +1,24 @@
+rules,support,confidence,coverage,lift,count
+"{Education=High Degrees,Income=Under $38k} => {Crime_Level=High Danger}",0.02120141342756184,1,0.02120141342756184,2.2283464566929134,12
+"{Vacancy=High Vacancy (>15%),Income=Under $38k} => {Crime_Level=High Danger}",0.2791519434628975,0.9132947976878613,0.30565371024734983,2.0351372263438168,158
+"{Vacancy=High Vacancy (>15%),Unemployment=High Unemployment (>10%)} => {Crime_Level=High Danger}",0.21731448763250882,0.9111111111111111,0.23851590106007067,2.030271216097988,123
+"{Vacancy=High Vacancy (>15%),Education=Low Degrees} => {Crime_Level=High Danger}",0.22791519434628976,0.9084507042253521,0.2508833922261484,2.024342907840745,129
+"{Vacancy=High Vacancy (>15%),Unemployment=Med Unemployment} => {Crime_Level=High Danger}",0.04770318021201413,0.9,0.05300353356890459,2.0055118110236223,27
+{Vacancy=High Vacancy (>15%)} => {Crime_Level=High Danger},0.29328621908127206,0.8972972972972973,0.3268551236749116,1.99948925303256,166
+"{Vacancy=High Vacancy (>15%),Education=Average Degrees} => {Crime_Level=High Danger}",0.04946996466431095,0.8484848484848485,0.05830388692579505,1.8907182056788356,28
+"{Income=Under $38k,Unemployment=High Unemployment (>10%)} => {Crime_Level=High Danger}",0.2879858657243816,0.8358974358974359,0.34452296819787986,1.862669089440743,163
+"{Education=Low Degrees,Unemployment=High Unemployment (>10%)} => {Crime_Level=High Danger}",0.25265017667844525,0.8033707865168539,0.31448763250883394,1.7901884455454302,143
+"{Vacancy=High Vacancy (>15%),Unemployment=Low Unemployment} => {Crime_Level=High Danger}",0.028268551236749116,0.8,0.03533568904593639,1.7826771653543307,16
+{Unemployment=High Unemployment (>10%)} => {Crime_Level=High Danger},0.303886925795053,0.7610619469026548,0.3992932862190813,1.695909692704341,172
+"{Education=Low Degrees,Income=Under $38k} => {Crime_Level=High Danger}",0.31802120141342755,0.743801652892562,0.4275618374558304,1.6574477777054726,180
+{Income=Under $38k} => {Crime_Level=High Danger},0.4045936395759717,0.7111801242236024,0.568904593639576,1.5847557098840905,229
+"{Vacancy=Moderate Vacancy,Unemployment=High Unemployment (>10%)} => {Crime_Level=High Danger}",0.07950530035335689,0.6338028169014085,0.12544169611307418,1.4123322612842408,45
+{Education=Low Degrees} => {Crime_Level=High Danger},0.32685512367491165,0.6292517006802721,0.5194346289752649,1.402190797578874,185
+"{Education=Average Degrees,Unemployment=High Unemployment (>10%)} => {Crime_Level=High Danger}",0.044169611307420496,0.6097560975609756,0.07243816254416961,1.3587478394468984,25
+"{Income=Under $38k,Unemployment=Med Unemployment} => {Crime_Level=High Danger}",0.07773851590106007,0.5641025641025641,0.13780918727915195,1.2570159499293356,44
+"{Vacancy=Moderate Vacancy,Income=Under $38k} => {Crime_Level=High Danger}",0.11484098939929328,0.5508474576271186,0.20848056537102475,1.2274789803816895,65
+"{Education=Average Degrees,Income=Under $38k} => {Crime_Level=High Danger}",0.06537102473498234,0.5441176470588235,0.12014134275618377,1.2124826308476144,37
+"{Vacancy=Moderate Vacancy,Education=Low Degrees} => {Crime_Level=High Danger}",0.09010600706713781,0.5,0.18021201413427562,1.1141732283464567,51
+"{Income=Under $38k,Unemployment=Low Unemployment} => {Crime_Level=High Danger}",0.038869257950530034,0.4489795918367347,0.08657243816254416,1.0004820825968184,22
+{} => {Crime_Level=High Danger},0.44876325088339225,0.44876325088339225,1,1,254
+"{Education=Low Degrees,Unemployment=Med Unemployment} => {Crime_Level=High Danger}",0.05123674911660778,0.42028985507246375,0.12190812720848059,0.9365514093347026,29
