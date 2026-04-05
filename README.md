@@ -53,10 +53,14 @@ These are saved in output/ folder :
 ---
 
 ## Installation & Usage
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/badrhrm/Detroit-Crime-Mining.git](https://github.com/badrhrm/Detroit-Crime-Mining.git)
-    ```
-2.  Open the RProject file in RStudio.
-3.  Run the scripts in order (01 through 05) to reproduce the findings.
-4.  Check the `outputs/` folder for interactive HTML visualizations and plots.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/badrhrm/Detroit-Crime-Mining.git
+   ```
+
+2. Open the RProject file in RStudio.
+
+3. Run the scripts in order (01 through 05) to reproduce the findings.
+
+4. Check the `outputs/` folder for interactive HTML visualizations and plots.
