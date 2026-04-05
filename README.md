@@ -48,7 +48,7 @@ The project follows a standard CRISP-DM workflow across five R scripts:
 ## Visual results
 These are saved in output/ folder :
 * **Interactive Hotspot Maps**
-* **Association Rules Network Graph:** A visual web showing how vacancy, education, and income "anchor" together to predict high-risk areas.
+* **Association Rules Network Graph:** A visual web showing how vacancy, education, unemployment and income together to predict high-risk areas.
 
 ---
 
